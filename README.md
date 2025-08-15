@@ -1,15 +1,10 @@
-
-# О сборке
-
+> [!NOTE]
+> # Поддерживает HOS 20.3.0 и ниже.
 ![](https://img.shields.io/github/v/release/Atmosphere-NX/Atmosphere?color=blue&label=atmosphere&style=flat-square)
 ![](https://img.shields.io/github/v/release/CTCaer/Hekate?color=blue&label=hekate&style=flat-square)
 ![](https://img.shields.io/github/v/release/impeeza/sys-patch?color=blue&label=sys-patch&style=flat-square)
 ![](https://img.shields.io/github/v/release/ITotalJustice/sphaira?color=blue&label=sphaira&style=flat-square)
-
-> [!NOTE]
-> # Поддерживает HOS 20.3.0 и ниже.
-
-Ничем не примечательная сборка была собрана в первую очередь для личного использования. Атмосфера и Hekate без модификаций, заменен только стандартный hbmenu на более современный, развивающийся и поддерживающийся разработчиком [ITotalJustice](https://github.com/ITotalJustice) - [Sphaira](https://github.com/ITotalJustice/sphaira). Удобное обновление/установка [DBI](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) и самой сборки через AIO Switch Updater (так же с помощью AIO можно скачать пак Addons со всем полезным софтом).
+- Ничем не примечательная сборка была собрана в первую очередь для личного использования. Атмосфера и Hekate без модификаций, заменен только стандартный hbmenu на более современный, развивающийся и поддерживающийся разработчиком [ITotalJustice](https://github.com/ITotalJustice) - [Sphaira](https://github.com/ITotalJustice/sphaira). Удобное обновление/установка [DBI](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) и самой сборки через AIO Switch Updater (так же с помощью AIO можно скачать пак Addons со всем полезным софтом).
 
 #  Включенные компоненты:
 - Основа:
@@ -22,10 +17,11 @@
   * [Lockpick_RCM](https://github.com/saneki/Lockpick_RCM) - извлекает ключи шифрования.
   * [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - Файловый проводник на основе payload.
 # Addons:
-- [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE).
-- [NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — установка пользовательских тем.
-- [Linkalho](https://gbatemp.net/download/linkalho.38822/) — привязка аккаунта Nintendo.
-- [NX Activity Log](https://github.com/zdm65477730/NX-Activity-Log) — журнал игровой активности.
+- Homebrew:
+  * [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE).
+  * [NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — установка пользовательских тем.
+  * [Linkalho](https://gbatemp.net/download/linkalho.38822/) — привязка аккаунта Nintendo.
+  * [NX Activity Log](https://github.com/zdm65477730/NX-Activity-Log) — журнал игровой активности.
 
 # Установка: 
 Подключите micro-sd к пк с помощью кардридера или через Hekate. Удалите с карты памяти всё содержимое, кроме папок Nintendo и EmuMMC (если они присутствуют), а затем перенесите туда распакованные файлы из архива.
