@@ -13,32 +13,32 @@ Sphaira 0.13.3
 
 Поддерживает HOS 20.3.0 и ниже.
 
-Еще чистая сборка от уважаемого. [993](https://4pda.to/forum/index.php?showuser=1516280) - [Santa-Atmo](https://santa-atmo.ru/nintendo-switch/)
+Еще чистая сборка от уважаемого [993](https://4pda.to/forum/index.php?showuser=1516280) - [Santa-Atmo](https://santa-atmo.ru/nintendo-switch/).
 
-Лучшие сборки с разгоном - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+Лучшие сборки с разгоном - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Venom](https://github.com/CatcherITGF/NX-Venom).
 
 #  Включенные компоненты
-[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций
+[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций.
 
-[Hekate](https://github.com/ctcaer/hekate/releases) — оригинальный, не модифицированный загрузчик
+[Hekate](https://github.com/ctcaer/hekate/releases) — оригинальный, не модифицированный загрузчик.
 
 [sys-patch](https://github.com/impeeza/sys-patch) - позволяет запускать неподписанный софт без необходимости использования отдельных sigpatches.
 
-[Sphaira](https://github.com/ITotalJustice/sphaira) — новое hombrew menu
+[Sphaira](https://github.com/ITotalJustice/sphaira) — новое hombrew menu.
 
-[AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли
+[AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли.
 
-[Lockpick_RCM](https://github.com/saneki/Lockpick_RCM) - извлекает ключи шифрования
+[Lockpick_RCM](https://github.com/saneki/Lockpick_RCM) - извлекает ключи шифрования.
 
 # Addons - скачивается через AIO Switch Updater
 
-[DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE)
+[DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE).
 
-[NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — установка пользовательских тем
+[NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — установка пользовательских тем.
 
-[Linkalho](https://gbatemp.net/download/linkalho.38822/) — привязка аккаунта Nintendo
+[Linkalho](https://gbatemp.net/download/linkalho.38822/) — привязка аккаунта Nintendo.
 
-[NX Activity Log](https://github.com/zdm65477730/NX-Activity-Log) — журнал игровой активности
+[NX Activity Log](https://github.com/zdm65477730/NX-Activity-Log) — журнал игровой активности.
 
 # Установка: 
 Подключите micro-sd к пк с помощью кардридера или через Hekate. Удалите с карты памяти всё содержимое, кроме папок Nintendo и EmuMMC (если они присутствуют), а затем перенесите туда распакованные файлы из архива.
