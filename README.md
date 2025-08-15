@@ -9,7 +9,7 @@ Sys-Patch 1.5.6
 
 Sphaira 0.13.3
 
-Сборка была собрана в первую очередь для личного использования, но может быть полезена и другим пользователям.
+Ничем не примечательная сборка была собрана в первую очередь для личного использования. Атмосфера и Hekate без модификаций, заменен только стандартный hbmenu на более современный, развивающийся и поддерживающийся разработчиком [ITotalJustice](https://github.com/ITotalJustice) - [Sphaira](https://github.com/ITotalJustice/sphaira). Удобное обновление/установка [DBI](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) и самой сборки через AIO Switch Updater (так же с помощью AIO можно скачать пак Addons со всем полезным софтом).
 
 Поддерживает HOS 20.3.0 и ниже.
 
@@ -22,13 +22,13 @@ Sphaira 0.13.3
 
 [sys-patch](https://github.com/impeeza/sys-patch) - позволяет запускать неподписанный софт без необходимости использования отдельных sigpatches.
 
-[Sphaira](https://github.com/ITotalJustice/sphaira) — новое hombrew menu (может устанавливать игры)
+[Sphaira](https://github.com/ITotalJustice/sphaira) — новое hombrew menu
 
 [AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли
 
 # Addons - скачивается через AIO Switch Updater
 
-[DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — русифицированная версия DBI для установки игр
+[DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE)
 
 [NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — установка пользовательских тем
 
