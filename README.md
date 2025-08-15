@@ -13,10 +13,6 @@ Sphaira 0.13.3
 
 Поддерживает HOS 20.3.0 и ниже.
 
-Еще чистая сборка от уважаемого [993](https://4pda.to/forum/index.php?showuser=1516280) - [Santa-Atmo](https://santa-atmo.ru/nintendo-switch/).
-
-Лучшие сборки с разгоном - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Venom](https://github.com/CatcherITGF/NX-Venom).
-
 #  Включенные компоненты:
 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций.
 
