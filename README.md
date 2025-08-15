@@ -30,6 +30,8 @@ Sphaira 0.13.3
 
 [Lockpick_RCM](https://github.com/saneki/Lockpick_RCM) - извлекает ключи шифрования.
 
+[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - Файловый проводник на основе payload.
+
 # Addons - скачивается через AIO Switch Updater
 
 [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE).
