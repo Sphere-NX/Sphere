@@ -17,7 +17,7 @@ Sphaira 0.13.3
 
 Лучшие сборки с разгоном - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Venom](https://github.com/CatcherITGF/NX-Venom).
 
-#  Включенные компоненты
+#  Включенные компоненты:
 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций.
 
 [Hekate](https://github.com/ctcaer/hekate/releases) — оригинальный, не модифицированный загрузчик.
@@ -34,7 +34,7 @@ Payloads:
 
 [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - Файловый проводник на основе payload.
 
-# Addons - скачивается через AIO Switch Updater
+# Addons:
 
 [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE).
 
