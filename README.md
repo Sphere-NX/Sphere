@@ -1,6 +1,14 @@
 
 # О сборке
 
+Atmosphere 1.9.3
+
+Hekate 6.3.1
+
+Sys-Patch 1.5.6
+
+Sphaira 0.13.3
+
 Сборка была собрана в первую очередь для личного использования, но может быть полезена и другим пользователям.
 
 Поддерживает HOS 20.3.0 и ниже.
@@ -8,7 +16,7 @@
 Кому нужен разгон - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Venom](https://github.com/CatcherITGF/NX-Venom)
 
 #  Включенные компоненты
-[Atmosphere 1.9.3](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций
+[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций
 
 [Hekate](https://github.com/ctcaer/hekate/releases) — оригинальный, не модифицированный загрузчик
 
@@ -16,11 +24,13 @@
 
 [Sphaira](https://github.com/ITotalJustice/sphaira) — новое hombrew menu (может устанавливать игры)
 
+[AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли
+
+# Addons - скачивается через AIO Switch Updater
+
 [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — русифицированная версия DBI для установки игр
 
 [NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — установка пользовательских тем
-
-[AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли
 
 [Linkalho](https://gbatemp.net/download/linkalho.38822/) — привязка аккаунта Nintendo
 
@@ -34,6 +44,14 @@
 
 # About Pack
 
+Atmosphere 1.9.3
+
+Hekate 6.3.1
+
+Sys-Patch 1.5.6
+
+Sphaira 0.13.3
+
 The pack was primarily for personal use, but it may be useful to other users as well.
 
 Supports HOS 20.3.0 and below.
@@ -41,7 +59,7 @@ Supports HOS 20.3.0 and below.
 Who needs overclocking - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Venom](https://github.com/CatcherITGF/NX-Venom)
 
 # Included components
-[Atmosphere 1.9.3](https://github.com/Atmosphere-NX/Atmosphere) — clean version without modifications
+[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — clean version without modifications
 
 [Hekate](https://github.com/ctcaer/hekate/releases) — the original, unmodified loader
 
@@ -49,11 +67,13 @@ Who needs overclocking - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Ven
 
 [Sphaira](https://github.com/ITotalJustice/sphaira) — new hombrew menu (can install games)
 
+[AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — console update manager
+
+# Addons - downloaded via AIO Switch Updater
+
 [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — a Russified version of DBI for installing games
 
 [NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — installing custom themes
-
-[AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — Console Update Manager
 
 [Linkalho](https://gbatemp.net/download/linkalho.38822/) — linking a Nintendo account
 
