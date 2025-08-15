@@ -22,8 +22,6 @@
 
 [AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли
 
-[Daybreak](https://github.com/Atmosphere-NX/Atmosphere) — инструмент для обновления HOS
-
 [Linkalho](https://gbatemp.net/download/linkalho.38822/) — привязка аккаунта Nintendo
 
 [NX Activity Log](https://github.com/zdm65477730/NX-Activity-Log) — журнал игровой активности
@@ -56,8 +54,6 @@ Who needs overclocking - [UltraNX](https://github.com/Ultra-NX/UltraNX), [NX-Ven
 [NXTheme Installer](https://github.com/exelix11/SwitchThemeInjector) — installing custom themes
 
 [AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — Console Update Manager
-
-[Daybreak](https://github.com/Atmosphere-NX/Atmosphere) — a tool for updating HOS
 
 [Linkalho](https://gbatemp.net/download/linkalho.38822/) — linking a Nintendo account
 
