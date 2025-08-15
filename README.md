@@ -10,7 +10,7 @@
 - Основа:
   * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — чистая версия без модификаций.
   * [Hekate](https://github.com/ctcaer/hekate/releases) — оригинальный, не модифицированный загрузчик.
-  * [sys-patch](https://github.com/impeeza/sys-patch) - позволяет запускать неподписанный софт без необходимости использования отдельных sigpatches.
+  * [sys-patch](https://github.com/impeeza/sys-patch) - позволяет запускать неподписанный софт.
   * [Sphaira](https://github.com/ITotalJustice/sphaira) — новое hombrew menu.
   * [AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли.
 - Payloads:
