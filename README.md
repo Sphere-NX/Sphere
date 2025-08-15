@@ -28,6 +28,8 @@ Sphaira 0.13.3
 
 [AIO Switch Update](https://github.com/HamletDuFromage/aio-switch-updater) — менеджер обновлений консоли
 
+[Lockpick_RCM](https://github.com/saneki/Lockpick_RCM) - извлекает ключи шифрования
+
 # Addons - скачивается через AIO Switch Updater
 
 [DBI RU](https://4pda.to/forum/index.php?showtopic=939714&st=1100#entry86288632) — Лучшее приложение для установки игр и вообще (MUST HAVE)
