@@ -6,7 +6,7 @@
     "filesInfo": [
       {
         "file": "/romfs/DBINFO",
-        "timestamp": "22.08.2025 10:39:11"
+        "timestamp": "23.08.2025 15:18:37"
       },
       {
         "file": "/romfs/bootapp/resources/scripts/sys/sysloadingscreen.lua",
@@ -14,11 +14,11 @@
       },
       {
         "file": "/romfs/bootapp/resources/strings/ru/strings.lng",
-        "timestamp": "23.08.2025 13:16:28"
+        "timestamp": "23.08.2025 15:19:06"
       },
       {
         "file": "/romfs/titles/lclassics.titlesdb",
-        "timestamp": "23.08.2025 13:16:28"
+        "timestamp": "23.08.2025 15:19:06"
       },
       {
         "file": "/romfs/titles/M-4501_e/M-4501_e-details.png",
@@ -27,7 +27,7 @@
       {
         "file": "/romfs/titles/M-4501_e/M-4501_e.gen",
         "checksum": "75e9c4705259d84112b3e697a6c00a0813d47d71,a4eeec3b3ff2563c03a0036acb9f89815238fd28,7ceb83de0871962fa3cd8fdc0ba8b5dec9a32ca9",
-        "timestamp": "20.08.2025 23:12:42"
+        "timestamp": "23.08.2025 15:17:53"
       },
       {
         "file": "/romfs/titles/M-4501_e/M-4501_e.png",
@@ -170,7 +170,7 @@
       {
         "file": "/romfs/titles/M-7808_e/M-7808_e.gen",
         "checksum": "6ddb7de1e17e7f6cdb88927bd906352030daa194,95b6aac7e11bb2d908aafa06973ffeb45817a992,802fe9a31a5973a46efbff3c29bfb634dc3f2f61",
-        "timestamp": "20.08.2025 23:00:26"
+        "timestamp": "23.08.2025 15:15:54"
       },
       {
         "file": "/romfs/titles/M-7808_e/M-7808_e.png",
