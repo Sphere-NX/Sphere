@@ -6,7 +6,7 @@
     "filesInfo": [
       {
         "file": "/romfs/DBINFO",
-        "timestamp": "21.08.2025 18:55:18"
+        "timestamp": "22.08.2025 10:39:11"
       },
       {
         "file": "/romfs/bootapp/resources/scripts/sys/sysloadingscreen.lua",
@@ -14,11 +14,11 @@
       },
       {
         "file": "/romfs/bootapp/resources/strings/ru/strings.lng",
-        "timestamp": "21.08.2025 19:00:22"
+        "timestamp": "23.08.2025 13:16:28"
       },
       {
         "file": "/romfs/titles/lclassics.titlesdb",
-        "timestamp": "21.08.2025 19:00:22"
+        "timestamp": "23.08.2025 13:16:28"
       },
       {
         "file": "/romfs/titles/M-4501_e/M-4501_e-details.png",
@@ -86,6 +86,19 @@
         "timestamp": "20.08.2025 23:26:20"
       },
       {
+        "file": "/romfs/titles/M-6252_e/M-6252_e-details.png",
+        "timestamp": "22.08.2025 10:17:37"
+      },
+      {
+        "file": "/romfs/titles/M-6252_e/M-6252_e.gen",
+        "checksum": "306021e52501c9d51afd9c51acf384356c84ffbf,e7419d637f0ad1390bcc33e3a8bfa52dc603bb65",
+        "timestamp": "22.08.2025 10:17:37"
+      },
+      {
+        "file": "/romfs/titles/M-6252_e/M-6252_e.png",
+        "timestamp": "22.08.2025 10:17:37"
+      },
+      {
         "file": "/romfs/titles/M-6330_e/M-6330_e-details.png",
         "timestamp": "21.08.2025 16:05:14"
       },
@@ -110,6 +123,32 @@
       {
         "file": "/romfs/titles/M-6350_e/M-6350_e.png",
         "timestamp": "20.08.2025 21:57:31"
+      },
+      {
+        "file": "/romfs/titles/M-6523_e/M-6523_e-details.png",
+        "timestamp": "22.08.2025 10:00:44"
+      },
+      {
+        "file": "/romfs/titles/M-6523_e/M-6523_e.gen",
+        "checksum": "d8d159c7c5a365242f989cc3aad2352fb27e3af3",
+        "timestamp": "22.08.2025 10:00:44"
+      },
+      {
+        "file": "/romfs/titles/M-6523_e/M-6523_e.png",
+        "timestamp": "22.08.2025 10:00:44"
+      },
+      {
+        "file": "/romfs/titles/M-6955_e/M-6955_e-details.png",
+        "timestamp": "22.08.2025 10:39:11"
+      },
+      {
+        "file": "/romfs/titles/M-6955_e/M-6955_e.gen",
+        "checksum": "7a7568e39341b1bb218280ee05c2b37c273317b5",
+        "timestamp": "22.08.2025 10:39:11"
+      },
+      {
+        "file": "/romfs/titles/M-6955_e/M-6955_e.png",
+        "timestamp": "22.08.2025 10:39:11"
       },
       {
         "file": "/romfs/titles/M-7007_e/M-7007_e-details.png",
@@ -188,6 +227,19 @@
       {
         "file": "/romfs/titles/M-9399_e/M-9399_e.png",
         "timestamp": "21.08.2025 18:55:10"
+      },
+      {
+        "file": "/romfs/titles/M-9446_e/M-9446_e-details.png",
+        "timestamp": "22.08.2025 10:07:42"
+      },
+      {
+        "file": "/romfs/titles/M-9446_e/M-9446_e.gen",
+        "checksum": "b67b708006145406f2a8dacb237517ededec359a",
+        "timestamp": "22.08.2025 10:07:42"
+      },
+      {
+        "file": "/romfs/titles/M-9446_e/M-9446_e.png",
+        "timestamp": "22.08.2025 10:07:42"
       },
       {
         "file": "/romfs/titles/M-9596_e/M-9596_e-details.png",
