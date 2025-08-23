@@ -3,8 +3,9 @@
     "Sphere": "https://github.com/Sphere-NX/Sphere/releases/latest/download/Sphere.zip"
   },
   "misc": {
-	"Addons": "https://github.com/Sphere-NX/Sphere/raw/refs/heads/main/Addons/Addons.zip",  
+	"Addons": "https://github.com/Sphere-NX/Sphere/raw/refs/heads/main/Other/Addons/Addons.zip",  
 	"DBI Update": "https://github.com/Sphere-NX/Sphere/raw/refs/heads/main/Other/DBI-RU/DBI-RU.zip",
-	"Refresh": "https://github.com/Sphere-NX/Sphere/raw/refs/heads/main/Other/AIO/AIO.zip"
+	"Refresh": "https://github.com/Sphere-NX/Sphere/raw/refs/heads/main/Other/AIO/AIO.zip",
+	"SEGA Genesis NSO [v851968] Pack": "https://github.com/Sphere-NX/Sphere/raw/refs/heads/main/Other/Megadrive-NSO/Megadrive-NSO.zip
   }
 }
