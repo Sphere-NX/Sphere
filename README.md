@@ -1,5 +1,5 @@
 > [!NOTE]
-> # Поддерживает HOS 20.4.0 и ниже.
+> # Поддерживает HOS 20.5.0 и ниже.
 ![](https://img.shields.io/github/v/release/Atmosphere-NX/Atmosphere?color=blue&label=atmosphere&style=flat-square)
 ![](https://img.shields.io/github/v/release/CTCaer/Hekate?color=blue&label=hekate&style=flat-square)
 ![](https://img.shields.io/github/v/release/impeeza/sys-patch?color=blue&label=sys-patch&style=flat-square)
